@@ -1,11 +1,16 @@
 # digi-ttf
+
 lowercase pixel font
 
 ---
+
 font used for iamafk.
 
+![iamafk image](/docs/promo.png)
 
-examples
+
+![digifont](/docs/digifontx2.png)
+
 
 
 arch
