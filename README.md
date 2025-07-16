@@ -1,5 +1,6 @@
 # digi-ttf
 
+[![AUR](https://img.shields.io/aur/version/digi-ttf)](https://aur.archlinux.org/packages/digi-ttf)
 
 ##  a lowercase pixel font .
   <p align="center">
