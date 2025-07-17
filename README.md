@@ -3,6 +3,7 @@
 [![AUR](https://img.shields.io/aur/version/digi-ttf)](https://aur.archlinux.org/packages/digi-ttf)
 
 ##  a lowercase pixel font .
+best used for headers and used at intervals of 8 px (ex. 8, 16, 24, 32...)
   <p align="center">
    <img src="docs/digifontx2.png" alt="digi font sample" width="200">
    <img src="docs/promo.png" alt="in use example" width="400">
