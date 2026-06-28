@@ -15,7 +15,7 @@ best used for headers and used at intervals of 8 px (ex. 8, 16, 24, 32...)
 ## installation .
 arch .
   ```bash
-  yay -S digi-tff
+  yay -S digi-ttf
   ```
 
 otherwise (and move .ttf into appropriate folder) .
